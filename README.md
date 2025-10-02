@@ -32,7 +32,7 @@ The API uses **Laravel Sanctum** for authentication and includes features like *
 ## 🛠️ Tech Stack
 
 - **Laravel 12**
-- **MySQL** (or any supported database)
+- **MySQL**
 - **Laravel Sanctum** (API authentication)
 - **Postman** (API testing)
 - **PHP 8.2+**
